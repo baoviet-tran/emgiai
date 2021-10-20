@@ -1,0 +1,2 @@
+# emgiai
+Practical python
